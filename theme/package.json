@@ -7,6 +7,7 @@
     "watch": "nodemon -V -w styles --ext \".scss\" --exec \"npm run build\""
   },
   "devDependencies": {
-    "node-sass": "^3.5.3"
+    "node-sass": "^3.5.3",
+    "nodemon": "^1.10.2"
   }
 }
