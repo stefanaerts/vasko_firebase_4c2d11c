@@ -1,12 +1,12 @@
 
-import {AuthProviders, AuthMethods} from "angularfire2";
+import {AuthProviders, AuthMethods} from 'angularfire2';
 
 
 export const firebaseConfig = {
-  apiKey: "AIzaSyBhuIkN2d6xNe7DwxzjCRhBIWiu1-mJ9vo",
-  authDomain: "final-project-ac645.firebaseapp.com",
-  databaseURL: "https://final-project-ac645.firebaseio.com",
-  storageBucket: "final-project-ac645.appspot.com",
+   apiKey: "AIzaSyD5NsfbhxZf0Tsm99wxwhnSqGQeODRrCYA",
+    authDomain: "final-project-recording-4a94a.firebaseapp.com",
+    databaseURL: "https://final-project-recording-4a94a.firebaseio.com",
+    storageBucket: "final-project-recording-4a94a.appspot.com",
 };
 
 
